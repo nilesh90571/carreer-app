@@ -1,0 +1,153 @@
+.login {
+  width: 100%;
+  height: 100%;
+  background-image: url(../../../public/image/login/BG.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+* {
+  transition: all 0.1s linear;
+}
+.icon {
+  transition: none;
+}
+.icon :is(button, input) {
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.icon:is(h1, h2, h3, h4, h5, h6, p, a) {
+  color: var(--clr_blueDark);
+}
+.content {
+  gap: 30px;
+
+  width: 100%;
+  height: 100%;
+  padding: 175px;
+}
+.message {
+  gap: 20px;
+}
+.title {
+  font-size: 4rem;
+  font-weight: var(--fw_bold);
+  line-height: 5rem;
+  color: var(--clr_blackFade);
+}
+.details {
+  font-size: 1.4rem;
+  font-weight: var(--fw_medium);
+  line-height: 2.3rem;
+  color: var(--clr_blackFade);
+}
+.btnSwitch {
+  font-size: 1rem;
+  color: var(--clr_white);
+  padding: 5px 15px;
+  border-radius: 5px;
+  background-color: var(--clr_blue);
+}
+.btnSwitch:is(:hover, :focus) {
+  background-color: var(--clr_green);
+}
+.loginForm,
+form {
+  gap: 20px;
+  width: 330px;
+}
+.inputField {
+  gap: 8px;
+  width: 100%;
+  height: 100%;
+}
+.input {
+  font-size: 1.1rem;
+  font-weight: var(--fw_medium);
+  color: var(--clr_blueDark);
+  width: 100%;
+  height: 60px;
+  border-radius: 10px;
+  padding: 0 5px 0 20px;
+  margin-bottom: 1rem;
+  background-color: var(--clr_blueLight);
+}
+.input::placeholder {
+  font-size: 1rem;
+  color: var(--clr_blue);
+}
+.passwordContainer {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.toggleView {
+  position: absolute;
+  inset: 0 7.5px 0 auto;
+}
+.icon {
+  color: var(--clr_blue);
+  width: 23px;
+  height: 23px;
+  padding: 18px;
+}
+.otpContainer {
+  position: relative;
+  width: 100%;
+  
+  height: 100%;
+}
+
+.otpBtn {
+  position: absolute;
+  inset: 0 7.5px 0 auto;
+  font-size: 0.9rem;
+  color: var(--clr_white);
+  height: 34px;
+  width: 85px;
+  border-radius: 5px;
+  margin-top: 1rem;
+  background-color: var(--clr_green);
+}
+.otpBtn:is(:hover, :focus) {
+  background-color: var(--clr_red);
+}
+.extra {
+  /* @include flex(center, flex-end); */
+  gap: 8px;
+  width: 100%;
+  height: 100%;
+}
+.forget {
+  background-color: transparent;
+}
+.text {
+  font-size: 1rem;
+  font-weight: var(--fw_medium);
+  color: var(--clr_blue);
+}
+.text:is(:hover, :focus) {
+  color: var(--clr_red);
+}
+.submit {
+  font-size: 1rem;
+  font-weight: var(--fw_medium);
+  color: var(--clr_white);
+  /* @include flex(center, center); */
+  width: 61%;
+  height: 60px;
+  margin: 5px 0 0 0;
+  border-radius: 10px;
+  background-color: var(--clr_blue);
+  box-shadow: 0 12px 25px var(--clr_blueShadow);
+}
+.submit:hover {
+ background-color: #FBD9FC;
+}
+.text {
+  font-size: 1rem;
+  font-weight: var(--fw_medium);
+  color: var(--clr_white);
+}

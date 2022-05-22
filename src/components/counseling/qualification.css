@@ -1,0 +1,78 @@
+#education{
+    width: 37rem;
+  padding: 8px ;
+  margin: 7px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-left: 1.5rem;
+  margin-top: 1.3rem;
+  margin-bottom: 1.3rem;
+}
+#edu{
+    margin-left: 1.5rem;
+    color: black;
+}
+#year{
+    width: 37rem;
+  padding: 8px ;
+  margin: 7px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-left: 1.5rem;
+  margin-top: 1.3rem;
+  margin-bottom: 1.3rem;
+}
+#s_name{
+    width: 37rem;
+    padding: 8px ;
+    margin: 7px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 1.5rem;
+    margin-top: 1.3rem;
+  margin-bottom: 1.3rem;
+  }
+  #percent{
+    width: 37rem;
+    padding: 8px ;
+    margin: 7px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 1.5rem;
+    margin-top: 1.3rem;
+  margin-bottom: 1.3rem;
+  }
+  #specialization{
+    width: 37rem;
+    padding: 8px ;
+    margin: 7px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 1.5rem;
+    margin-top: 1.3rem;
+  margin-bottom: 1.3rem;
+  }
+  .pop{
+      display: flex; 
+  }
+  .pop1{
+      margin-left: 17rem;
+      height: 2rem;
+      margin-top: 1.5rem;
+  }
+  .btn{
+      margin-left: 30rem;
+  }
+  p{
+    margin-left: 1rem;
+  }

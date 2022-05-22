@@ -1,0 +1,138 @@
+.container{
+  background-color: #ccc;
+}
+.cont{
+  margin-left: 15rem;
+}
+#name {
+  width: 200px;
+  padding: 8px ;
+  margin: 7px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-left: 3.7rem;
+}
+#nme{
+  width: 200px;
+  padding: 8px ;
+  margin: 7px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-left: 4.4rem;
+}
+#email {
+  width: 200px;
+  padding: 8px ;
+  margin: 7px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-left: 4.5rem;
+}
+#c_name{
+  width: 63%;
+  padding: 8px ;
+  margin: 7px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-left: 0rem;
+}
+  input[type=date] {
+    width: 200px;
+    padding: 8px ;
+    margin: 7px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 1.2rem;
+  }
+  input[type=number] {
+    width: 200px;
+    padding: 8px ;
+    margin: 7px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 2.3rem;
+  }
+  select {
+    width: 21%;
+    padding: 8px ;
+    margin: 7px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: .5rem;
+  }
+ 
+  #skills1{
+    width: 63%;
+    padding: 8px ;
+    margin: 7px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 2.5rem
+  }
+  #addr {
+    width: 200px;
+    padding: 8px ;
+    margin: 7px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 3.3rem;
+  }
+  #hme {
+    width: 200px;
+    padding: 8px ;
+    margin: 7px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 4.5rem;
+  }
+  h1{
+      font-size: 2.5rem;
+      margin-right: 37%;
+      text-align: center;
+  }
+  .form-group{
+    margin-left: 2rem;
+    margin-top: 2rem;
+  }
+  .can{
+    box-shadow:0 3px 0 0 grey;
+  }
+  .btn1{
+    font-size: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    margin-left: 15%;
+    width: 20rem;
+  }
+  .btn1:hover{
+    background-color: #FBD8FE;
+  }
+  .frm{
+    margin-top: 2rem;
+    margin-left: 4rem;
+  }
+  .del{
+    margin-left: 0.5rem;
+    background-color: red;
+    font-size: large;
+  }

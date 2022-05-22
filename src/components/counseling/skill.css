@@ -1,0 +1,72 @@
+#skills {
+  width: 37rem;
+  padding: 8px;
+  margin: 7px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-left: 1.5rem;
+  margin-top: 1.3rem;
+  margin-bottom: 1.3rem;
+}
+#skil {
+  margin-left: 1.5rem;
+  color: black;
+}
+#exp{
+  color: black;
+  margin-left: 1.5rem;
+}
+#non-tech {
+  width: 37rem;
+  padding: 8px;
+  margin: 7px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-left: 1.5rem;
+  margin-top: 1.3rem;
+  margin-bottom: 1.3rem;
+}
+#experience {
+  width: 37rem;
+  padding: 8px;
+  margin: 7px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-left: 1.5rem;
+  margin-top: 1.3rem;
+  margin-bottom: 1.3rem;
+}
+.pop {
+  display: flex;
+}
+.pop2 {
+  margin-left: 22rem;
+  height: 2rem;
+  margin-top: 1.5rem;
+}
+.pop3 {
+  margin-left: 22rem;
+  height: 2rem;
+  margin-top: -2rem;
+}
+.btn {
+  margin-left: 30rem;
+}
+#ex {
+  width: 13rem;
+  padding: 8px;
+  margin: 7px 0;
+  display: inline-block;
+  margin-left: 1.5rem;
+  margin-top: 1.3rem;
+  margin-bottom: 1.3rem;
+}
+.exper{
+  display: flex;
+}
